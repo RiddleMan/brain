@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "eec5da316b72ffb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9e2efebd0915c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6816d1ab33592093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef92035e889d8794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/linux/how-to-resize-a-volume-on-linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e269703649e12ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/kubernetes/kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a9ca32441e40e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eed9ac4b766aaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e12a7619923bab5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c82bc1f54cfba81c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62e54ae70d588e00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0982e80fd0735d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7816ffc8dd2b806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75baa2f01b5117b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "technologies/linux/how-to-resize-a-volume-on-linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d45c76f58e803396",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "technologies/linux/how-to-resize-a-volume-on-linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27f8721754702629",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6050490af0a02017",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "technologies/linux/how-to-resize-a-volume-on-linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef92035e889d8794",
+  "lastOpenFiles": [
+    "technologies/kubernetes/kubernetes.md",
+    "technologies/linux/how-to-resize-a-volume-on-linux.md",
+    "technologies/linux/proxmox-disk-resize.png",
+    "README.md"
+  ]
+}
